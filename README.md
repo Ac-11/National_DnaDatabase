@@ -25,3 +25,4 @@ IAM user name: worker
 Password: )d5CDJ8*
 
 Worker has read-only access of table in dynamo db
+**The project is closed for public access contact me to get access**
